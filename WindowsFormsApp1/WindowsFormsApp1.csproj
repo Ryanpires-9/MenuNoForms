@@ -76,6 +76,7 @@
     <Compile Include="Minhas classes\CalculadoraOO.Designer.cs">
       <DependentUpon>CalculadoraOO.cs</DependentUpon>
     </Compile>
+    <Compile Include="Minhas classes\clsCalcCientifica.cs" />
     <Compile Include="Minhas classes\clsCalculadoraOO.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
